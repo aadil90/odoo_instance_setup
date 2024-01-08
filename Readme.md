@@ -17,6 +17,7 @@ Update your system by running the following commands:
 ```bash
 sudo apt update
 sudo apt upgrade
+```
 
 This should also be installed 
 
